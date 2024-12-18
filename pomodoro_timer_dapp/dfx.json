@@ -1,0 +1,10 @@
+
+{
+  "canisters": {
+    "pomodoro_timer": {
+      "type": "assets",
+      "source": ["frontend"]
+    }
+  }
+}
+    
